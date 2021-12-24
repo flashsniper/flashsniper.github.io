@@ -5086,7 +5086,7 @@ h4.panel-title a.collapsed:before {
 @media (max-width : 480px) {
 	
   ul.bitcoin-stats {
-    display: none;
+   
   }
 
   #main-slide .item {
