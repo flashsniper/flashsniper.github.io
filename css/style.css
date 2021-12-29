@@ -141,6 +141,50 @@ a:focus {
   outline: 0;
 }
 
+.btn-primary-i {
+  border: 0;
+  border-radius: 0;
+  padding: 12px 30px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: .1s;
+  outline: 0;
+  box-shadow: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary-i:hover {
+  color: #fff;
+}
+
+.btn-primary-i:hover, .btn-primary-i:focus, .btn-primary-i:active {
+  box-shadow: none;
+  outline: 0;
+}
+
+.btn-primary-ic {
+  border: 0;
+  border-radius: 0;
+  padding: 12px 30px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: .1s;
+  outline: 0;
+  box-shadow: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary-ic:hover {
+  color: #fff;
+}
+
+.btn-primary-ic:hover, .btn-primary-ic:focus, .btn-primary-ic:active {
+  box-shadow: none;
+  outline: 0;
+}
+
 .form-control {
   box-shadow: none;
   border: 1px solid #333;
@@ -330,6 +374,12 @@ body.light .terms-of-services h3 {
 body.light ul.user li.sign-in a.btn-primary:hover,
 body.light ul.user li.sign-in a.btn-primary:focus,
 body.light ul.user li.sign-in a.btn-primary:active,
+body.light ul.user li.sign-in a.btn-primary-i:hover,
+body.light ul.user li.sign-in a.btn-primary-i:focus,
+body.light ul.user li.sign-in a.btn-primary-i:active,
+body.light ul.user li.sign-in a.btn-primary-ic:hover,
+body.light ul.user li.sign-in a.btn-primary-ic:focus,
+body.light ul.user li.sign-in a.btn-primary-ic:active,
 body.light .pricing-switcher label,
 body.light .team-member:hover .team-member-caption h4,
 body.light blockquote p{
