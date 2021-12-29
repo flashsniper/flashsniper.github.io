@@ -200,6 +200,18 @@ body.light ul.user li.sign-in a:hover, .slider.btn-primary:hover {
   outline: none !important;
 }
 
+.btn-primary-i:hover, .btn-primary-i:focus, .btn-primary-i:active {
+  background: rgba(173, 0, 0 ,.9) !important;
+  outline: none !important;
+}
+
+.down-icon a:hover,
+.down-icon a:active,
+.down-icon a:focus, {
+  background: rgba(180, 61, 2,.9) !important;
+  outline: none !important;
+}
+
 .slider.btn-primary:focus,
 .slider.btn-primary:active,
 ul.user li.sign-in a.btn-primary:focus,
